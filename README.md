@@ -3,7 +3,7 @@ Hallo, Grüß Gott, Moin, Servus       Heennlllooo
 
 Willkommen auf meinem GitHub!  
 
-Ich habe ehrlich gesagt **kaum Ahnung von Programmieren** – deshalb sind die meisten Sachen, die hier vielleicht irgendwann landen, vermutlich **100 % AI-Slop™**.
+Ich habe ehrlich gesagt **kaum Ahnung von Programmieren**, deshalb sind die meisten Sachen, die hier vielleicht irgendwann landen, vermutlich **100 % AI-Slop™**.
 
 **Von Hardware** habe ich dafür ein *bisschen* Ahnung. Vielleicht nicht so viel, dass man meinen Anleitungen oder Dokus blind vertrauen sollte – aber **für ein bisschen Chaos und Basteln reicht’s** allemal. 👉👈  
 
