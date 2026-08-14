@@ -11,3 +11,9 @@ Wenn du also gerne durch halbfertige Ideen, Homelab-Kram, Dokus, Experimente und
 **Viel Spaß hier!**  
 
 Und keine Ahnung, wie du hier gelandet bist      **aber jetzt bist du ja schon mal da.**
+
+---
+
+## Lizenz
+
+GNU General Public License v3.0 — siehe [LICENSE](LICENSE).
